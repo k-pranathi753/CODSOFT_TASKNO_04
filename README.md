@@ -91,11 +91,13 @@ For example:
 
 The application displays a performance message based on the final percentage:
 
-Percentage	Performance
-80% or above	Excellent performance!
-60% – 79%	Good performance!
-40% – 59%	Keep practicing!
-Below 40%	You need more practice.
+|   Percentage | Performance             |
+| ------------ | ----------------------- |
+| 80% or above | Excellent performance!  |
+|    60% – 79% | Good performance!       |
+|    40% – 59% | Keep practicing!        |
+|    Below 40% | You need more practice. |
+
 
 # 🔄 How the Program Works
 The application displays the quiz introduction.
